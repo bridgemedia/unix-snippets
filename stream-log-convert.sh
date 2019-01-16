@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Перекодирование логовsynoservice -restart crond
+# Перекодирование логов ТВ-вещалок
 # Кронтаб в Synology:
 # vim /etc/crontab
 # synoservice -restart crond
