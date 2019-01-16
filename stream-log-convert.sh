@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # Перекодирование логов ТВ-вещалок
+# Чтобы использовать, создайте папку с именем канала типа "BRIDGETV_UTF16"
+
 # Кронтаб в Synology:
 # vim /etc/crontab
 # synoservice -restart crond
